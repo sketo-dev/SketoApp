@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sketo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sketo</string>
+    <string name="nav_header_subtitle">InfoTech Pvt. Ltd.</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_drawer"><font fgcolor="#000000">Sketo</font></string>
+    <string name="checkbox">com.work.sketo.checkbox</string>
+    <string name="name">com.work.sketo.name</string>
+    <string name="password">com.work.sketo.password</string>
+</resources>
